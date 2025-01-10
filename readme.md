@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Bienvenue! I'm Lagab Sara
+  Welcome! I'm Lagab Sara
 </h1>
 
 <h3 align="center">
